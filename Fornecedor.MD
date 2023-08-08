@@ -1,5 +1,5 @@
 ### Cadastro de Fornecedores
-
+![fornecedores](https://github.com/jaozinhodagarapa/lojavirtual-api/assets/140513442/daf869b6-35a9-4869-877e-7be96879337f)
 1. Nome da Empresa
 2. CNPJ
 3. IE(Inscrição Estadual )
