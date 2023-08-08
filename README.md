@@ -1,4 +1,5 @@
 # lojavirtual-api com PHP e Laravel
+![facebook_profile_image](https://github.com/jaozinhodagarapa/lojavirtual-api/assets/140513442/b98a62ee-b83c-4c8b-b201-3a3f70e7ae77)
 
 Este projeto é sobrre uma loja de computadores.Coemçando a partir do login, cadstros e outros, chegando na area de venda do próprio site
 * Pagina de [cadastro de clientes](Cliente.MD)
