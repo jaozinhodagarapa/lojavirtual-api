@@ -1,7 +1,10 @@
 # lojavirtual-api com PHP e Laravel
 
 Este projeto é sobrre uma loja de computadores.Coemçando a partir do login, cadstros e outros, chegando na area de venda do próprio site
-
+* Pagina de [cadastro de clientes](Cliente.MD)
+* Pagina de [cadastro de Produto](Produto.MD)
+* Pagina de [cadastro de fornecedor](Fornecedor.MD)
+* Pagina de [cadastro da transportadora](Transportadora.MD)
 ## Requisitos
 
 Certifique-se de ter os seguintes requisitos atendidos antes de começar a trabalhar nos exercícios:
