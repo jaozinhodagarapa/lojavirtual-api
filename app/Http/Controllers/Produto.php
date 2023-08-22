@@ -24,4 +24,8 @@ class Produto extends Controller
             "data" => $produto
         ], 200);
     }
+
+    public function pesquisarPorId($id){
+        return ModelsProduto::find($id);
+    }
 }

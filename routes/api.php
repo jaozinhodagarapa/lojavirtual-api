@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Produto;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -15,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::post('store', [ProdutosController::class, 'store']);
+
+Route::get('/find/{id}',[Produto::class,'pesquisarPorId']);
